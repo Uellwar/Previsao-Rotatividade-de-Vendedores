@@ -10,9 +10,12 @@ Já o arquivo `prevendo_churn_engineering_machine_learning` trata-se da segunda 
 
 Links Oficiais:
 Projeto de análise exploratória completo:
+  
 https://colab.research.google.com/drive/1BX4mp1j0DY5liKFNSfhx3lB6BN1gAV20?usp=sharing
 
+  
 Projeto de Classificação de Churn:
-https://colab.research.google.com/drive/1bkyJo-0IML2TD_Vnk6qHd-lUK0mp5vnZ?usp=sharing
+
+  https://colab.research.google.com/drive/1bkyJo-0IML2TD_Vnk6qHd-lUK0mp5vnZ?usp=sharing
 
 <html>
